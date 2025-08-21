@@ -1,0 +1,28 @@
+body{
+    border: 5px solid;
+    border-style: dashed;
+    border-color: deeppink;
+    padding: 50px ;
+    text-align: center;
+    background: bisque;
+}
+img{
+    width: 500px;
+    height: 600px;
+    border:  5px solid;
+    border-color: dodgerblue;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+li, h4{
+    list-style-type: none;
+    text-align: left;
+    font-size: 30px ;
+    line-height: 2;
+}
+a{
+
+    text-decoration: none;
+}

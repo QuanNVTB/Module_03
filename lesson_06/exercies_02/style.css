@@ -1,0 +1,33 @@
+#heder{
+    font-size: 50px;
+    border-style: none none solid none ;
+    border-color: darkgrey;
+}
+body{
+    font-size: 25px;
+}
+
+#pheder{
+    border:  0px solid;
+    padding-bottom: 30px;
+}
+.bdy{
+    list-style: none;
+}
+li{
+    list-style-type: none;
+    border-style: none;
+    padding: 15px;
+    text-align: left;
+    text-indent: 50px;
+}
+.bold{
+    font-weight: bold;
+}
+.donDuong{
+    color: dodgerblue;
+}
+
+.noun{
+    color: darkblue;
+}
